@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## Hi there 👋I'm Rasheedah
+I'm an aspiring Ethical hacker actively building my skills in linux, networking security and other cybersecurity trends. I'm actively participating in tech communities, and showcasing my progress through hands-on projects.
+ABOUT ME
+1.Passionate about ethical hacking, cyber awareness, network defence and cyber hygiene.
+2.Currently stacking skills in networking security throughcisco packet tracer . also exploring kali Linux  basics.
+3.Working on personal labs,certicification prep, and real-world security practices.
+4.Engaged
 <!--
 **RASHEE206/RASHEE206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
