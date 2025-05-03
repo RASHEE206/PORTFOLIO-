@@ -1,5 +1,6 @@
 ## Hi there 👋I'm Rasheedah
 I'm an aspiring Ethical hacker actively building my skills in linux, networking security and other cybersecurity trends. I'm actively participating in tech communities, and showcasing my progress through hands-on projects.
+
 ABOUT ME
 1.Passionate about ethical hacking, cyber awareness, network defence and cyber hygiene.
 
