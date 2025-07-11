@@ -19,8 +19,6 @@ WHAT YOU'LL FIND HERE
 3.Projects related to ethical hacking and cybersecurity fundamentals.
 4. Security best practices and random security notes or writeups.
 
-**RASHEE206/RASHEE206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
  🔭 I’m currently working on building hands-on lab in network security and linx fundamentals while developing my Github portfolio....
  
 - 🌱 I’m currently learning cybersecurity fundamentals such as networking security and also exploring kali linux basics....
