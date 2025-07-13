@@ -5,9 +5,9 @@ ABOUT ME
 
 1.Passionate about ethical hacking, cyber awareness, network defence and cyber hygiene.
 
-2.Currently stacking skills in networking security throughcisco packet tracer . also exploring kali Linux  basics.
+2.Currently stacking skills in networking security through Cisco Packet Tracer also exploring kali Linux  basics.
 
-3.Working on personal labs,certicification prep, and real-world security practices.
+3.Working on personal labs, certicification prep, and real-world security practices.
 
 4.Engaged in Cybersecurity groups and building a strong Github profile to document my growth.
 
