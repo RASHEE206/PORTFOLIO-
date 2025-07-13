@@ -4,14 +4,19 @@ I'm an aspiring Ethical hacker actively building my skills in linux, networking 
 ABOUT ME
 
 1.Passionate about ethical hacking, cyber awareness, network defence and cyber hygiene.
+
 2.Currently stacking skills in networking security throughcisco packet tracer . also exploring kali Linux  basics.
+
 3.Working on personal labs,certicification prep, and real-world security practices.
+
 4.Engaged in Cybersecurity groups and building a strong Github profile to document my growth.
+
 5. I'm an AI enthusiast with an interest in AI safety and responsible governance.
 
 WHAT YOU'LL FIND HERE
 
 CYBERSECURITY 
+
 1.Security focused labs and tool experiments.
 
 2.Notes and writeups from my learning journey.
