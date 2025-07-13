@@ -14,7 +14,9 @@ WHAT YOU'LL FIND HERE
 CYBERSECURITY 
 1.Security focused labs and tool experiments.
 2.Notes and writeups from my learning journey.
+
 3.Projects related to ethical hacking and cybersecurity fundamentals.
+
 4. Security best practices and random security notes or writeups.
 
 ARTIFICIAL INTELLIGENCE 
