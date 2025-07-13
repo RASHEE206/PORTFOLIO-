@@ -25,7 +25,7 @@ ARTIFICIAL INTELLIGENCE
 2. Courses.
 3. Articles and Research Papers.
 4. Hands on Labs.
-5. Internship Certificates.
+5. Internship/Bootcamps Certificates.
 
  🔭 I’m currently working on building hands-on lab in network security and linux fundamentals while developing my Github portfolio....
  
